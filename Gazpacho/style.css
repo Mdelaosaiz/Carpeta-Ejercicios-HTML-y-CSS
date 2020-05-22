@@ -2,6 +2,12 @@ body {
     background-color: #f3f4f5;
 }
 
+strong {
+    color: black;
+    font-family: Georgia;
+    font-size: 18px;
+}
+
 h1 {
     color: black;
     font-family: Arial;
@@ -9,6 +15,16 @@ h1 {
 }
 
 p {
+    color: #757575;
+    font-family: Georgia;
+    font-size: 18px;
+}
+ol {
+    color: #757575;
+    font-family: Georgia;
+    font-size: 18px;
+}
+ul {
     color: #757575;
     font-family: Georgia;
     font-size: 18px;
